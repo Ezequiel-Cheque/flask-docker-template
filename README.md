@@ -20,7 +20,7 @@
 Esta aplicacion esta construida bajo la arquitectura hexagonal
 
 <center>
-  <img alt="python" src="./assets/images/hex-arq.png" />
+  <img alt="python" src="./assets/images/hex-arq.png" width="450px"/>
 </center>
 
 <br>
